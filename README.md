@@ -14,8 +14,8 @@ The second purpose is to implement the site to be secure, also following these p
 - login/logout must be handled using sessions and cookies
 
 ## Technical info
-Project is built using [CodeIgniter]{https://ellislab.com/codeigniter} and page templates for the UI, using the MVC approach and leveraging several security features offered by the framework.
-Project also uses [phpseclib]{http://phpseclib.sourceforge.net/} for the implementation of AES and RSA.
+Project is built using [CodeIgniter](https://ellislab.com/codeigniter) and page templates for the UI, using the MVC approach and leveraging several security features offered by the framework.
+Project also uses [phpseclib](http://phpseclib.sourceforge.net) for the implementation of AES and RSA.
 
 
 ## Notes
