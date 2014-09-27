@@ -1,5 +1,5 @@
 ## What is this
-This small website has been created as an educational project for the course of "Security of Multimedia Application" at University of Udine in 2014. The main purpose is to show in a very simple way how crypt and decrypt works in 5 different ciphers:
+This is the source files of http://ciphersuniud.davideserafini.com, a small website developed as an educational project for the course of "Security of Multimedia Application" at University of Udine in 2014. The main purpose is to show in a very simple way how crypt and decrypt works in 5 different ciphers:
 - Rail Fence
 - Caesar
 - Vigenère
