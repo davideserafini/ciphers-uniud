@@ -1,0 +1,1 @@
+<footer>Project for Security in Multimedia Applications<br/>2014 - <a href="mailto:serafini.davide.1@spes.uniud.it">Davide Serafini</a></footer>
