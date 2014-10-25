@@ -21,6 +21,9 @@ CodeIgniter and phpseclib are not included in this repository, please download t
 
 You also have to specify your own database data in application/config/database.php
 
+## Database setup
+I've added create_database.sql with the SQL code needed to create the database. The login datas you can see in application/config/database.php are only an example and no, I don't use those on http://ciphersuniud.davideserafini.com :)
+
 ## Notes
 The code is not heavily optimized because this is not the purpose of the project.
 Https is not supported for a simple matter of costs of SSL certificates for a simple educational project.
