@@ -19,10 +19,8 @@ Project also uses [phpseclib](http://phpseclib.sourceforge.net) for the implemen
 
 CodeIgniter and phpseclib are not included in this repository, please download them from the authors' sites. Place the library to application/libraries/ renaming the directory to phpseclib.
 
-You also have to specify your own database data in application/config/database.php
-
 ## Database setup
-I've added create_database.sql with the SQL code needed to create the database. The login datas you can see in application/config/database.php are only an example and no, I don't use those on http://ciphersuniud.davideserafini.com :)
+You can use create_database.sql to create the database, remember to adjust application/config/database.php accordingly (the datas you see are for examply only).
 
 ## Notes
 The code is not heavily optimized because this is not the purpose of the project.
